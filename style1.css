@@ -1,0 +1,20 @@
+body {
+    background-color: gainsboro;
+}
+
+a {
+    color: navy;
+}
+
+ul {
+    color: rgb(108, 150, 19);
+}
+
+h2 {
+    size: 50px;
+    color: rgb(177, 40, 231);
+}
+
+h3 {
+    border: 5px solid;
+}

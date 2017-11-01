@@ -1,8 +1,25 @@
 .extreme{
-    font-family: "Calibri", Times, serif;
-    size: 300px;
-    text-align: right;
- } 
+    font-family: "Georgia", Times, serif;
+    size: 15px;
+    text-align: left;
+ }
+
+ .navzone{
+    font-family: "Courier", Times, serif;
+    size: 30px;
+    text-align: center;
+    border: 20px solid rgb(34, 125, 209);
+ }
+
+ .content{
+    font-family: "Verdana", Times, serif;
+    size: 10px;
+ }
+
+ #head1{
+    font-family: "Arial", Times, serif;
+    border: 6px solid rgb(34, 125, 209);
+ }
 
 body {
     background-color: gainsboro;

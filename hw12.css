@@ -15,12 +15,14 @@
 
  .hole{
     overflow: scroll;
+    font-family: "Georgia", Times, serif;
  }
 
  .YES{
-     font-family: "Georgia";
+     color: rgb(32, 178, 223)
  }
 
  .realStuff{
-     size: 35px;
+    font-family: "Georgia";
+    size: 35px;
  }

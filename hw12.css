@@ -1,0 +1,26 @@
+.cross{
+    font-family: "Georgia", Times, serif;
+    size: 15px;
+    text-decoration: line-through;
+ }
+
+ .life{
+    text-align: center;
+    border-style: ridge;
+    border-color: orange;
+    border-width: 30px; 
+    font-family: "Georgia", Times, serif;
+    color: rgb(147, 63, 224);
+ }
+
+ .hole{
+    overflow: scroll;
+ }
+
+ .YES{
+     font-family: "Georgia";
+ }
+
+ .realStuff{
+     size: 35px;
+ }
